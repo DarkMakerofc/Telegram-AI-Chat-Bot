@@ -1,7 +1,7 @@
 # TELEGRAM-AI-BOT
 The Telegram Ai Chat Bot. Created By Mr nima. Powerd By Chatgpt Api.
 
-# Add Your Details in to Config.json 
+##  Add Your Details in to [Config.json](edit/main/Config.json) 
 
 * [Telegram api Token]()
 
