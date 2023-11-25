@@ -3,11 +3,11 @@ The Telegram Ai Chat Bot. Created By Mr nima. Powerd By Chatgpt Api.
 
 ##  Add Your Details in to [Config.json](Config.json) 
 
-* [Telegram api Token](Config.json#L3)
+* [Telegram api Token](Config.json#L5)
 
-* [Bot Owner's User Name](Config.json#L2)
+* [Bot Owner's User Name](Config.json#L3)
 
-* [Bot Name](Config.json#L4)
+* [Bot Name](Config.json#L7)
 
 # Termux Deploy.
 
