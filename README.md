@@ -16,7 +16,8 @@ The Telegram Ai Chat Bot. Created By Mr nima. Powerd By Chatgpt Api.
 You Must Put Telegram Bot Token From Bot Father to Deploy This Bot
 </div> <br>
 
-* [Telegram api Token](Config.json#L5)
+* [Telegram api Token | 📌 You Must Put This.
+](Config.json#L5)
 
 * [Bot Owner's User Name](Config.json#L3)
 
@@ -26,17 +27,22 @@ You Must Put Telegram Bot Token From Bot Father to Deploy This Bot
 
 ## Termux Deploy.
 ```
+#> To Clone Bot's Github.
 git clone https://github.com/DarkMakerofc/TELEGRAM-AI-BOT
-```
-```
+
+#> To Open Cloned Bot Folder.
 cd TELEGRAM-AI-BOT
-```
-```
+
+#> To install Bot's Packages.
 npm install
-```
-```
+
+#> To Start Bot After install Packages.
 npm start
 ```
+```
+git clone https://github.com/DarkMakerofc/TELEGRAM-AI-BOT && cd TELEGRAM-AI-BOT && npm install && npm start
+```
+
 
 
 
@@ -44,5 +50,19 @@ npm start
 
 
 # Heroku Deploy
-
+Video Upload Will Soon ...
 # Replit Deploy
+Video Upload Will Soon ...
+# 
+
+`🧑‍💻 This Bot is Created By Darkmakerofc ( mr nima ) Using Javascript.` <br>
+`🌿 This Bot Run on Telegram.` <br>
+`🌟 Powered By OpenAi Chatgpt.`<br>
+
+
+
+
+
+
+
+
