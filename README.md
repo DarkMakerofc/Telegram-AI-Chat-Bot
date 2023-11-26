@@ -52,7 +52,7 @@ git clone https://github.com/DarkMakerofc/Telegram-AI-Chat-Bot && cd Telegram-AI
 
 
 # Heroku Deploy
-[`Heroku Deploy Button`](https://heroku.com/deploy?template=https://github.com/DarkMakerofc/TELEGRAM-AI-BOT)<br><br>
+[`Heroku Deploy Button`](https://heroku.com/deploy?template=https://github.com/DarkMakerofc/Telegram-AI-Chat-Bot)<br><br>
 Video Upload Will Soon ...
 # Replit Deploy
 Video Upload Will Soon ...
