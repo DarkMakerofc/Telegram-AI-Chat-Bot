@@ -30,10 +30,10 @@ You Must Put Telegram Bot Token From Bot Father to Deploy This Bot
 ## Termux Deploy.
 ```
 #> To Clone Bot's Github.
-git clone https://github.com/DarkMakerofc/TELEGRAM-AI-BOT
+git clone https://github.com/DarkMakerofc/Telegram-AI-Chat-Bot
 
 #> To Open Cloned Bot Folder.
-cd TELEGRAM-AI-BOT
+cd Telegram-AI-Chat-Bot
 
 #> To install Bot's Packages.
 npm install
@@ -42,7 +42,7 @@ npm install
 npm start
 ```
 ```
-git clone https://github.com/DarkMakerofc/TELEGRAM-AI-BOT && cd TELEGRAM-AI-BOT && npm install && npm start
+git clone https://github.com/DarkMakerofc/Telegram-AI-Chat-Bot && cd Telegram-AI-Chat-Bot && npm install && npm start
 ```
 
 
@@ -52,6 +52,7 @@ git clone https://github.com/DarkMakerofc/TELEGRAM-AI-BOT && cd TELEGRAM-AI-BOT 
 
 
 # Heroku Deploy
+[`Heroku Deploy Button`](https://heroku.com/deploy?template=https://github.com/DarkMakerofc/TELEGRAM-AI-BOT)<br><br>
 Video Upload Will Soon ...
 # Replit Deploy
 Video Upload Will Soon ...
