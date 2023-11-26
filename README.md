@@ -9,6 +9,8 @@ The Telegram Ai Chat Bot. Created By Mr nima. Powerd By Chatgpt Api.
 <h4> USE AI CHAT BOTS </h4>
 
 [`𝗢𝗡 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣`](https://chat.whatsapp.com/JOj4TlGpvYx6kfxzh1gUUA)  |  [`𝗢𝗡 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠`](https://t.me/chat_gpt_ASK3_bot)
+<br>
+<h3>🌟 Don't forget to give Star to This Bot.</h3>
 </div><br>
 
 ##  Add Your Details in to [Config.json](Config.json) 
