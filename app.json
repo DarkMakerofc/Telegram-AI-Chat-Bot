@@ -1,0 +1,39 @@
+{
+    "name": "Telegram Ai Chat Bot",
+    "description": "This is an Open Ai Chat Gpt Telegram AI bot created by mr nima.",
+    "repository": "https://github.com/DarkMakerofc/TELEGRAM-AI-BOT",
+    "logo": "https://telegra.ph/file/7e4a883eab0f96664798e.jpg",
+    "keywords": [
+        "nodejs",
+        "Bot",
+        "WhatsApp Ai Bot"
+    ],
+    "env": {
+        "TELEGRAM_TOKEN": {
+            "description": "Type the TELEGRAM_TOKEN you got from bot father.",
+            "required": true,
+            "value": ""
+        },
+        "OWNER_USER_NAME": {
+            "description": "Type if your Telegram User Name \n Example : @MR_NIMA_OFC_YT",
+            "required": true,
+            "value": "@MR_NIMA_OFC_YT"
+        },
+        "BOT_NAME": {
+            "description": "Type if your Telegram Bot Name.",
+            "required": true,
+            "value": "⚕ Nima's Telegram AI Chat Bot ⚕"
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+    ],
+    "formation": {
+        "web": {
+            "quantity": 1,
+            "size": "Basic"
+        }
+    }
+}
