@@ -27,6 +27,15 @@ You Must Put Telegram Bot Token From Bot Father to Deploy This Bot
 
 <br>
 
+### Command Texts
+
+```
+start - 👋 Start Telegram AI Bot
+runtime - ⏱️ Check Bot's Alive Time
+
+```
+<br>
+
 ## Termux Deploy.
 ```
 #> To Clone Bot's Github.
