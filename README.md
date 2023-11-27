@@ -13,6 +13,9 @@ The Telegram Ai Chat Bot. Created By Mr nima. Powerd By Chatgpt Api.
 <h3>🌟 Don't forget to give Star to This Bot.</h3>
 </div><br>
 
+### Fork Bot Repository 
+[Click](https://github.com/DarkMakerofc/Telegram-AI-Chat-Bot/fork)
+
 ##  Add Your Details in to [Config.json](Config.json) 
 <div align="center">
 You Must Put Telegram Bot Token From Bot Father to Deploy This Bot
