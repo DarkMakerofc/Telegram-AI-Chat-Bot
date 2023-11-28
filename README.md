@@ -69,7 +69,11 @@ git clone https://github.com/DarkMakerofc/Telegram-AI-Chat-Bot && cd Telegram-AI
   <img src="https://telegra.ph/file/55fe37b1612b9201b0c1b.jpg" alt="Youtube Video" width="330" height="200">
 </a>
 # Replit Deploy
-Video Upload Will Soon ...
+<a href="https://youtu.be/9ITSj_hGK04">
+  <img src="https://telegra.ph/file/63529c79c561516ad1e46.jpg" alt="Youtube Video" width="330" height="200">
+</a>
+<br>
+
 # 
 
 `🧑‍💻 This Bot is Created By Darkmakerofc ( mr nima ) Using Javascript.` <br>
